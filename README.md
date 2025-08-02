@@ -1,18 +1,15 @@
-1. Install Miniconda
-
-- MacOS
-```bash
-sh install-miniconda-macos.sh
-``` 
-
-- Linux
-```bash
-sh install-miniconda-macos.sh
-``` 
-
-2. Install Packages
+1. Install Packages
 
 ```bash
-pip install -r requirements.txt
+sh setup_dependencies.sh
 ```
+
+2. Download CIFAR-10 Dataset
+
+```bash
+cd src
+python download_cifar_data.py
+```
+
+
   
