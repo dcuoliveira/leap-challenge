@@ -1,9 +1,17 @@
-name: sgd-trading
+name: leap-challenge
 channels:
   - pytorch
   - conda-forge
   - defaults
+  - pip
 dependencies:
-  - r-base=4.1.2
+  - python=3.10
+  - pandas
+  - numpy
+  - scipy
+  - jupyterlab
+  - scikit-learn
+  - seaborn
+  - matplotlib
   - pytorch
   - torchvision
