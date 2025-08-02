@@ -1,0 +1,9 @@
+name: sgd-trading
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base=4.1.2
+  - pytorch
+  - torchvision

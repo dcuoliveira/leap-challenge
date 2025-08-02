@@ -1,0 +1,15 @@
+name: leap-challenge
+channels:
+  - conda-forge
+  - defaults
+  - pip
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - scipy
+  - jupyterlab
+  - scikit-learn
+  - statsmodels
+  - seaborn
+  - matplotlib
