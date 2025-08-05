@@ -1,3 +1,6 @@
+# pyc files
+*.pyc
+
 # cifar10 dataset
 src/data/inputs/cifar*
 
