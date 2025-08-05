@@ -4,11 +4,11 @@
 sh setup_dependencies.sh
 ```
 
-2. Download CIFAR-10 Dataset
+2. Download Tiny ImageNet Dataset
 
 ```bash
 cd src
-python download_cifar_data.py
+python download_tiny_imagenet_data.py
 ```
 
 

@@ -2,7 +2,7 @@
 src/data/inputs/cifar*
 
 # tiny imagenet dataset
-src/data/inputs/tiny-imagenet-200*
+src/data/inputs/tiny*
 
 # vscode
 .DS_Store
