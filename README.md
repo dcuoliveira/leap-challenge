@@ -11,5 +11,11 @@ cd src
 python download_tiny_imagenet_data.py
 ```
 
+3. Run the Solution Notebook
+
+```bash
+jupyter notebook solution.ipynb
+```
+
 
   
